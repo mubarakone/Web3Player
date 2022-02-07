@@ -30,7 +30,8 @@ Then you can embed the video player with these custom elements:
 ```
 Once you have the video on your page, be sure to include the attribute `insertLink=""` and insert your video source link you uploaded to the cloud.
 ```
-<web3-video insertLink="https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4">
+<web3-video 
+insertLink="https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4">
 </web3-video>
 ```
 
