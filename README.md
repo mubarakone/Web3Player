@@ -5,7 +5,7 @@
 ### An open-source Web3 enabled video player for you to embed in your website.
 
 ## Prerequisites 
-1) Have a Ethereum address ready to use for transactions.
+1) Have an Ethereum address ready to use for transactions.
 2) Have a video file (`.mp4`,`.wmv`, etc...) stored in the cloud with a URL directly linked to it.
 3) Have a price to charge users per stream (meaning from start to end of video), price is only in ETH.
 
