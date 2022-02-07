@@ -2,7 +2,7 @@
 <img width="185" alt="web3player logo 2" src="https://user-images.githubusercontent.com/52806204/152709033-f2fe11f8-a1a1-44ab-8789-db2d29c28fe8.PNG">
 
 
-##### An open-source Web3 enabled video player for you to embed in your website.
+### An open-source Web3 enabled video player for you to embed in your website.
 
 ## Installation
 Download the `web3-player.js` file into your workspace folder.
