@@ -2,14 +2,14 @@
 <img width="300" alt="web3player logo 2" src="https://user-images.githubusercontent.com/52806204/152709033-f2fe11f8-a1a1-44ab-8789-db2d29c28fe8.PNG">
 
 
-### An open-source Web3 enabled video player for you to embed in your website.
+## An open-source Web3 enabled video player for you to embed in your website.
 
-## Prerequisites 
+### Prerequisites 
 1) Have an Ethereum address ready to use for transactions.
 2) Have a video file (`.mp4`,`.wmv`, etc...) stored in the cloud with a URL directly linked to it.
 3) Have a price to charge users per stream (meaning from start to end of video), price is only in ETH.
 
-## Installation
+### Installation
 Download the `web3-player.js` file into your workspace folder.
 
 Open your HTML file and add these Javascript files to your script tags.
