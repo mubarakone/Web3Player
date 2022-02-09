@@ -1,5 +1,7 @@
-**CREATED AT**:
-https://showcase.ethglobal.com/roadtoweb3/web3player
+## DISCLAIMER: THIS PROJECT IS NOT READY FOR COMMERCIAL USE 
+This project is still in its development stages, and needs much security improvements before suitable for commercial use. **Use a test network to send transactions.**
+-----------
+### **CREATED AT**: https://showcase.ethglobal.com/roadtoweb3/web3player
 
 ![](https://dl.airtable.com/.attachments/388f9fa5c2e25024013766c335512504/7af06419/road_to_web3_banner_4.png)
 
