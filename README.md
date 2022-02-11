@@ -11,8 +11,8 @@ This project is still in its development stages, and needs much security improve
 
 ## An open-source Web3 enabled video player for you to embed in your website.
 ### Demo
-View demo https://mubarakone.github.io/Web3Player/.
-Change the branch to `site` if you want to view the `index.html` html file being used.
+View demo at https://mubarakone.github.io/Web3Player/.
+Change the branch from `main` to `site` if you want to view the `index.html` html file being used.
 
 ### Prerequisites 
 1) Have an Ethereum address ready to use for transactions.
