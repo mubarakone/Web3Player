@@ -5,12 +5,14 @@ This project is still in its development stages, and needs much security improve
 
 ![](https://dl.airtable.com/.attachments/388f9fa5c2e25024013766c335512504/7af06419/road_to_web3_banner_4.png)
 
-
 # Web3Player
 <img width="300" alt="web3player logo 2" src="https://user-images.githubusercontent.com/52806204/152709033-f2fe11f8-a1a1-44ab-8789-db2d29c28fe8.PNG">
 
 
 ## An open-source Web3 enabled video player for you to embed in your website.
+### Demo
+View demo https://mubarakone.github.io/Web3Player/.
+Change the branch to `site` if you want to view the `index.html` html file being used.
 
 ### Prerequisites 
 1) Have an Ethereum address ready to use for transactions.
