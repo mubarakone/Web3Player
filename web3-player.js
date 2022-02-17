@@ -26,6 +26,7 @@ const price = "" //ETH
        console.log(user.get('ethAddress'))
     } catch(error) {
       console.log(error)
+      alert("Install Metamask to your browser!")
     }
    }
    return Boolean(user)
@@ -158,6 +159,7 @@ const price = "" //ETH
               this.playVideo()
           } else {
               console.log("getResults() function did not work")
+              alert("Install Metamask to your browser!")
           }
       }
  
