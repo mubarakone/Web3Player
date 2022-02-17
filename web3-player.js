@@ -34,6 +34,7 @@ function submitInput() {
        console.log(user.get('ethAddress'))
     } catch(error) {
       console.log(error)
+      alert("Install Metamask to your browser!")
     }
    }
    return Boolean(user)
@@ -166,6 +167,7 @@ function submitInput() {
               this.playVideo()
           } else {
               console.log("getResults() function did not work")
+              alert("Install Metamask to your browser!")
           }
       }
  
