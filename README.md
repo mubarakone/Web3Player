@@ -1,3 +1,5 @@
+# `web3player-react now available:` https://github.com/mubarakone/web3player-react
+
 ## DISCLAIMER: THIS PROJECT IS NOT READY FOR COMMERCIAL USE 
 This project is still in its development stages, and needs much security improvements before suitable for commercial use. **Use a test network to send transactions.**
 -----------
