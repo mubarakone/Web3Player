@@ -24,7 +24,7 @@ Change the branch from `main` to `site` if you want to view the `index.html` htm
 3) Have a price to charge users per stream (meaning from start to end of video), **price is only in ETH**.
 
 ### Installation
-Download the `web3player-vanilla.js` file into your workspace folder.
+Download the `web3player.js` file into your workspace folder.
 
 Open your HTML file and add these Javascript files to your script tags.
 
@@ -34,7 +34,7 @@ Open your HTML file and add these Javascript files to your script tags.
 ```
 Including the file you downloaded in your workspace
 ```
-<script src="web3player-vanilla.js"></script>
+<script src="web3player.js"></script>
 ```
 
 Then you can embed the video player with these custom elements:
