@@ -1,9 +1,6 @@
 # `web3player-react now available:` https://github.com/mubarakone/web3player-react
 ![Animation4](https://user-images.githubusercontent.com/52806204/164576336-dbb222d0-d71f-45f5-8086-685ac98c40e8.gif)
 
-
-## DISCLAIMER: THIS PROJECT IS NOT READY FOR COMMERCIAL USE 
-This project is still in its development stages, and needs much security improvements before suitable for commercial use. **Use a test network to send transactions.**
 -----------
 ### **CREATED AT**: https://showcase.ethglobal.com/roadtoweb3/web3player
 
